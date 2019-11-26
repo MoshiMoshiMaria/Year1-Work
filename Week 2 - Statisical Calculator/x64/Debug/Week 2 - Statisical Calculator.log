@@ -1,0 +1,4 @@
+﻿  main.cpp
+h:\documents\year 1\intro to c++\student_pack\student_pack\lab code\week 2 - statisical calculator\main.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\documents\year 1\intro to c++\student_pack\student_pack\lab code\week 2 - statisical calculator\main.cpp(53): warning C4305: '*=': truncation from 'double' to 'float'
+  Week 2 - Statisical Calculator.vcxproj -> H:\Documents\Year 1\Intro to C++\Student_Pack\Student_Pack\lab code\x64\Debug\Week 02 - Statisical Calculator.exe
