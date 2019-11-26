@@ -1,0 +1,4 @@
+﻿  main.cpp
+h:\documents\year 1\intro to c++\student_pack\student_pack\lab code\week 7 - functions sandbox\main.cpp(6): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\documents\year 1\intro to c++\student_pack\student_pack\lab code\week 7 - functions sandbox\main.cpp(9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Week 7 - Functions Sandbox.vcxproj -> H:\Documents\Year 1\Intro to C++\Student_Pack\Student_Pack\lab code\x64\Debug\Week 07 - Functions Sandbox.exe
