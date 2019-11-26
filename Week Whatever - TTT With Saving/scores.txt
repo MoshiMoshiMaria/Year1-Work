@@ -1,0 +1,6 @@
+Alf 1
+Dan 3
+Scot 3
+Sanj 4
+Nat 3
+tl 1
